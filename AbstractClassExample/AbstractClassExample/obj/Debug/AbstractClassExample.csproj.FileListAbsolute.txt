@@ -1,0 +1,7 @@
+C:\DotNet_Git_Uploads\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe.config
+C:\DotNet_Git_Uploads\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe
+C:\DotNet_Git_Uploads\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.pdb
+C:\DotNet_Git_Uploads\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.AssemblyReference.cache
+C:\DotNet_Git_Uploads\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.exe
+C:\DotNet_Git_Uploads\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.pdb

@@ -1,0 +1,7 @@
+C:\DotNet_Git_Uploads\Inheritance_Single\Inheritance_Single\bin\Debug\Inheritance_Single.exe.config
+C:\DotNet_Git_Uploads\Inheritance_Single\Inheritance_Single\bin\Debug\Inheritance_Single.exe
+C:\DotNet_Git_Uploads\Inheritance_Single\Inheritance_Single\bin\Debug\Inheritance_Single.pdb
+C:\DotNet_Git_Uploads\Inheritance_Single\Inheritance_Single\obj\Debug\Inheritance_Single.csproj.AssemblyReference.cache
+C:\DotNet_Git_Uploads\Inheritance_Single\Inheritance_Single\obj\Debug\Inheritance_Single.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\Inheritance_Single\Inheritance_Single\obj\Debug\Inheritance_Single.exe
+C:\DotNet_Git_Uploads\Inheritance_Single\Inheritance_Single\obj\Debug\Inheritance_Single.pdb

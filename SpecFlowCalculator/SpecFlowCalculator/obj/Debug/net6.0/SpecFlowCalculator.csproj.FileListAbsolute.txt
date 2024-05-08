@@ -1,0 +1,11 @@
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.deps.json
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.dll
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.pdb
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfo.cs
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.dll
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\refint\SpecFlowCalculator.dll
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.pdb
+C:\DotNet_Git_Uploads\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\ref\SpecFlowCalculator.dll

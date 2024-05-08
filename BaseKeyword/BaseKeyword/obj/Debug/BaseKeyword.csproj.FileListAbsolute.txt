@@ -1,0 +1,7 @@
+C:\DotNet_Git_Uploads\BaseKeyword\BaseKeyword\bin\Debug\BaseKeyword.exe.config
+C:\DotNet_Git_Uploads\BaseKeyword\BaseKeyword\bin\Debug\BaseKeyword.exe
+C:\DotNet_Git_Uploads\BaseKeyword\BaseKeyword\bin\Debug\BaseKeyword.pdb
+C:\DotNet_Git_Uploads\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.csproj.AssemblyReference.cache
+C:\DotNet_Git_Uploads\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.exe
+C:\DotNet_Git_Uploads\BaseKeyword\BaseKeyword\obj\Debug\BaseKeyword.pdb

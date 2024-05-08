@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4+1YJqojPbW6JrMUvn1fGZ2e8g2Boqz+mkMKTBNhAkzqst8zfyhQgpYetayvD6W4CFAZHmJYohxaBr3FMkYvQ==",
+  "success": true,
+  "projectFilePath": "C:\\DotNet_Git_Uploads\\PostApiDemo\\PostApiDemo\\PostApiDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shano\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\shano\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\shano\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\shano\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

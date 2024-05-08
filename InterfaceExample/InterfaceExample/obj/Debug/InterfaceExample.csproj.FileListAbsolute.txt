@@ -1,0 +1,7 @@
+C:\DotNet_Git_Uploads\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\DotNet_Git_Uploads\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\DotNet_Git_Uploads\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\DotNet_Git_Uploads\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+C:\DotNet_Git_Uploads\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\DotNet_Git_Uploads\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb

@@ -1,0 +1,11 @@
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\DotNet_Git_Uploads\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll

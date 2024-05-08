@@ -1,0 +1,7 @@
+C:\DotNet_Git_Uploads\MethodOverriding\MethodOverriding\bin\Debug\MethodOverriding.exe.config
+C:\DotNet_Git_Uploads\MethodOverriding\MethodOverriding\bin\Debug\MethodOverriding.exe
+C:\DotNet_Git_Uploads\MethodOverriding\MethodOverriding\bin\Debug\MethodOverriding.pdb
+C:\DotNet_Git_Uploads\MethodOverriding\MethodOverriding\obj\Debug\MethodOverriding.csproj.AssemblyReference.cache
+C:\DotNet_Git_Uploads\MethodOverriding\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\DotNet_Git_Uploads\MethodOverriding\MethodOverriding\obj\Debug\MethodOverriding.exe
+C:\DotNet_Git_Uploads\MethodOverriding\MethodOverriding\obj\Debug\MethodOverriding.pdb
